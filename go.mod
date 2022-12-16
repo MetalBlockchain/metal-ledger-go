@@ -1,10 +1,10 @@
-module github.com/ava-labs/avalanche-ledger-go
+module github.com/MetalBlockchain/metal-ledger-go
 
 go 1.18
 
 require (
 	github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec
-	github.com/ava-labs/avalanchego v1.7.18
+	github.com/MetalBlockchain/metalgo v1.9.0
 	github.com/stretchr/testify v1.8.0
 	github.com/zondax/ledger-go v0.12.3-0.20221005223406-dbd460b7296d
 )

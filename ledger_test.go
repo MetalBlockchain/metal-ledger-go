@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ava-labs/avalanchego/utils/hashing"
+	"github.com/MetalBlockchain/metalgo/utils/hashing"
 )
 
 // NOTE: You must have a physical ledger device to run this test

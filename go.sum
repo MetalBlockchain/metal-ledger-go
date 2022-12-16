@@ -3,9 +3,9 @@ cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec h1:1Qb69mGp/UtRPn422BH4/Y4Q3SLUrD9KHuDkm8iodFc=
 github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec/go.mod h1:CD8UlnlLDiqb36L110uqiP2iSflVjx9g/3U9hCI4q2U=
+github.com/MetalBlockchain/metalgo v1.9.0 h1:MZsjevynUoxpq2WbUqxx7JMHrgQ+eip2C1AVknYtihE=
+github.com/MetalBlockchain/metalgo v1.9.0/go.mod h1:14/+bUKmdODQF9azskNYgC7D5LRqG+wm9vK3cY2pWNs=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/ava-labs/avalanchego v1.7.18 h1:x4PrTKIyUZkxhPjjf/a4hQLZDUB8netA6oFMw6Z1M+Q=
-github.com/ava-labs/avalanchego v1.7.18/go.mod h1:Jo21X9sMxvkZNoo8B7GJbbelGrIJbwFPcMhwanink68=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
