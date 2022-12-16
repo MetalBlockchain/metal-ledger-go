@@ -1,6 +1,6 @@
-# avalanche-ledger-go
+# metal-ledger-go
 
-_Golang SDK for Using the [Avalanche Ledger App](https://github.com/obsidiansystems/ledger-app-avalanche)_
+_Golang SDK for Using the [Metal Ledger App](https://github.com/MetalBlockchain/ledger-app-metal)_
 
 ## Example
 ```golang
@@ -16,8 +16,8 @@ if err != nil {
 }
 fmt.Printf("version: %s commit: %s name: %s\n", version, commit, name)
 
-// Get Fuji Address
-address, err := device.Address("fuji", 0, 0)
+// Get Tahoe Address
+address, err := device.Address("tahoe", 0, 0)
 if err != nil {
   panic(err)
 }
