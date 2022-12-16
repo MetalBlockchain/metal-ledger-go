@@ -1,6 +1,4 @@
-# avalanche-ledger-go
-
-_Golang SDK for Using the [Avalanche Ledger App](https://github.com/obsidiansystems/ledger-app-avalanche)_
+# metal-ledger-go
 
 ## Example
 ```golang
