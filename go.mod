@@ -1,4 +1,4 @@
-module github.com/ava-labs/avalanche-ledger-go
+module github.com/MetalBlockchain/metal-ledger-go
 
 go 1.18
 
